@@ -3,14 +3,18 @@
 
 ## Overview:
 
-The purpose of the new analysis is to summarize the ride-sharing data by city type and generate multiple-line graph that shows the total weekly fares for each city type. A written report is then submitted summarizing how the data differs by city type and how those differences can be used by decision-maker at PyBer.
+As a PyBer employee, the first assignement is to perform exploratory analysis on ride-sharing data among the different city types using as shown in the results section. 
+
+The second task is to summarize the ride-sharing data by city type and generate multiple-line graph that shows the total weekly fares for each city type. 
+
+This written report will summarize the results on how the data differs by city type and how those differences can be used by decision-maker at PyBer. The analysis and visualization will also help PyBer improve access to ridesharing services and determine affordability for undeserve neighborhoods.
 
 
 ## Results:
 
 ### 1. Ride-sharing data among the different city types.
 
-- Urban cities have the highest percentage in terms of total fare (62.7%), rides (68.4%), and drivers (80.9%) amongst the other city types. That is understandable given the number of people (riders) that lives in urban areas. However, urban cities tend to have the lowest average fare as shown on the picture below and that's probably because there are a lot of competing drivers and the proximity of the destinations.
+- Urban cities have the highest percentage in terms of total fare (62.7%), rides (68.4%), and drivers (80.9%) amongst the other city types. That is understandable given the number of people (riders) that lives in urban areas. However, urban cities tend to have the lowest average fare as shown on the picture below and that's probably because there are a lot of competing drivers and the close proximity of the destinations.
 
 - Suburban cities tend to be in the middle in terms of  total fare (30.5%), rides (26.3%), and drivers (16.5%) amongst the other city types. These type of cities are a combination of mixed-use or residential area, existing either as part of a city or urban areas. Therefore, commuting from one place to another would take some time especially if they work in the city. That explains why the avarage fare is higher than urban areas. I recommend to expand business in this type of cities.
 
