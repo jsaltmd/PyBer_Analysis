@@ -55,7 +55,7 @@ In the set of data, urban areas tend to be the highest in revenues. However all 
 
 ![](./Pictures/Total_Fare_City_Types.png)
 
-![](./Pictures/Total_fare_by_City.png)
+![](./Pictures/Total_Fare_by_City.png)
 
 
 ## Summary:
