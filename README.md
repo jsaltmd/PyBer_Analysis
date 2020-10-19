@@ -3,7 +3,7 @@
 
 ## Overview:
 
-As a PyBer employee, the first assignement is to perform exploratory analysis on ride-sharing data among the different city types using as shown in the results section. 
+As a PyBer employee, the first assignment is to perform exploratory analysis on ride-sharing data among the different city types as shown in the results section. 
 
 The second task is to summarize the ride-sharing data by city type and generate multiple-line graph that shows the total weekly fares for each city type. 
 
@@ -65,4 +65,4 @@ In the set of data, urban areas tend to be the highest in revenues. However all 
 
 ## Summary:
 
-Uban cities continue to be the money maker for PyBer and because it is the largest source of revenue, they should invest more in this city types to ensure that drivers are fully utilized. I also recommend to also focus efforts on expanding into suburban types cities as it shows some promising data. Rural areas tend to be on the lowest side and that is okay but can invest on initiatives to attract more riders, perhaps some incentives for the customers.
+Urban cities continue to be the money maker for PyBer and because it is the largest source of revenue, they should invest more in this city types to ensure that drivers are fully utilized. I also recommend to also focus efforts on expanding into suburban types cities as it shows some promising data. Rural areas tend to be on the lowest side and that is okay but can invest on initiatives to attract more riders, perhaps some incentives for the customers.
